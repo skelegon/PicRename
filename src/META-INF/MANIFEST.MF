@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-io-2.4.jar metadata-extractor-2.9.1.jar xmpcore-5.
+ 1.2.jar
+Main-Class: com.company.Main
+
